@@ -1,0 +1,3 @@
+# Directional Market Making in AquaBera
+
+In traditional financial markets, directional market making strategies are employed to maintain a net long or short position in a particular asset. These strategies aim to minimize inventory and adverse selection risks inherent in market making. However, such strategies have been largely absent in the DeFi space, where most AMMs aim for market neutrality. AquaBera integrates directional market making principles directly into its core operations, making it uniquely positioned to align user interests with market movements or enable asset hodling. This provides a more strategic approach to liquidity provision.
