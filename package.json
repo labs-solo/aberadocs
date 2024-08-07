@@ -1,0 +1,31 @@
+{
+  "name": "aberadocs",
+  "version": "1.0.0",
+  "description": "Welcome to the AquaBera documentation. AquaBera is a non-custodial, automated protocol designed to simplify the liquidity provision process on Kodiak, a vertically-integrated liquidity hub on Berachain.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2",
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-fontsettings": "^2.0.0",
+    "gitbook-plugin-highlight": "^2.0.3",
+    "gitbook-plugin-hints": "^1.0.2",
+    "gitbook-plugin-livereload": "^0.0.1",
+    "gitbook-plugin-lunr": "^1.2.0",
+    "gitbook-plugin-search": "^2.2.1",
+    "gitbook-plugin-sharing": "^1.0.2",
+    "gitbook-plugin-splitter": "^0.0.8",
+    "gitbook-plugin-tabs": "^0.0.7",
+    "gitbook-plugin-theme-default": "^1.0.7"
+  }
+}
